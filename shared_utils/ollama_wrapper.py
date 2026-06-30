@@ -45,9 +45,8 @@ class OllamaWrapper:
                         token = chunck.get('response', '') 
                         if token: 
                             yield token 
-                    except json.JSONDecodeError as e: 
-                        print(f'\nAn error occurred: {e}') 
+                    except json.JSONDecodeError as e:
+                        raise ValueError(f'Error trying to decode the json file: {e}') 
         except requests.RequestException as e: 
-            print(f'\nAn error occurred: {e}')
-
+            raise RuntimeError(f'Ollama API communication failed: {e}')
 
