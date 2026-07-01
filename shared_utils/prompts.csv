@@ -1,0 +1,11 @@
+Prompts
+"Given the following Python function signature: `def calculate_factorial(n):`, write the complete code to correctly compute the factorial of a non-negative integer $n$." 
+"If all Glix are Zorp, and some Zorps are Flips, can you definitively conclude that all Glixes are Flips? Provide only 'Yes,' 'No,' or 'Cannot Determine.'"
+"Read the following sentence: 'The committee decided to table the discussion until further notice.' What does the phrase 'table the discussion' most likely mean in this context? Respond with a single, concise definition (e.g., postpone, continue, cancel)."
+"Translate the following Spanish phrase into idiomatic English: *'Más vale tarde que nunca.'* Provide only the direct translation."
+"Summarize the following text in exactly one sentence: 'The rapid adoption of renewable energy sources like solar and wind has significantly reduced global carbon emissions, though challenges remain regarding grid stability and storage capacity for intermittent power generation.'"
+"Write a simple JavaScript function that takes an array of numbers as input and returns only the even numbers from that array."
+"A light switch controls one bulb. If you flip the switch on, does the bulb *have* to be lit? Explain your answer in one short sentence."
+"Analyze this statement: 'The quarterly profits increased by 15% despite a significant downturn in market sentiment.' What is the primary implication for the company's performance? (Choose one: Weak, Strong, Neutral)."
+"Translate the following German phrase into English: *'Auf Wiedersehen.'* Provide only the translated greeting."
+"Condense this short paragraph into three key bullet points: 'Artificial intelligence is transforming healthcare by improving diagnostic accuracy and automating routine administrative tasks, allowing medical professionals more time to focus on complex patient care.'"
